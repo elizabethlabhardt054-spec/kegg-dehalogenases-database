@@ -1,0 +1,5 @@
+kegg-dehalogenases-database/
+│
+├── README.md                  # Documentação do projeto
+├── dehalogenases_catalog.json # Ficheiro de dados estruturados
+└── parser.py                  # Script Python para ler e carregar no SQLite
